@@ -1,97 +1,127 @@
 # Personal Information
-**#Name:** Nishant Jhade  
+**#Name:** Piyush Jain
 **#Location:** Bhopal, Madhya Pradesh  
-**#LinkedIn:** [linkedin.com/in/nishant-6b9a2b27b](https://linkedin.com/in/nishant-6b9a2b27b)  
-**#GitHub:** [github.com/nishant-x](https://github.com/nishant-x)  
-**#Phone:** +91 7067056699  
-**#Email:** jhadenishant@gmail.com  
+**#LinkedIn:** [www.linkedin.com/in/p4piyush/](https://www.linkedin.com/in/p4piyush/)  
+**#GitHub:** [github.com/p4p-iyush](https://github.com/p4p-iyush)  
+**#Phone:** +91 9753868553
+**#Email:** jain4piyush@gmail.com  
+ 
 
 ---
 
-## #Brief Summary
-I am Nishant Jhade, a passionate software developer specializing in full-stack web development and AI-driven solutions. I have expertise in backend development, scalable system architecture, and problem-solving.
+### **Core Values and Beliefs **  
+**Question:** What are your core values and beliefs? How do they affect your daily life?  
+**Your Answer:**  
+My core values and beliefs are centered around hard work and consistency. I firmly believe that being consistent in daily efforts leads to growth and success. I am very frequent with daily learning and always try to learn new things, which helps me stay updated and confident in my abilities. I enjoy getting involved in various activities, like anchoring, which not only enhance my skills but also give me exposure to new experiences. Although I multitask at times, I prefer to focus on one task at a time because it allows me to give my best and learn efficiently without distractions.
 
 ---
 
-## #Education
-**#Sagar Institute of Science, Technology & Engineering, Bhopal, MP**  
-#Bachelor of Technology in Computer Science & Engineering (Aug 2022 - June 2026)  
-**#CGPA:** 7.32  
+### **Interests and Hobbies**  
+**Question:** What are your main interests and hobbies? What kind of content do you like?  
+**Event Organization: **  
+Volunteered in college techno-cultural events.
 
-**#Government Higher Secondary School, Betul (M.P)**  
-#12th | **#Percentage:** 85% | (Aug 2021 - June 2022)  
+**NCC Participation:**
+Cadet of 2MP Air NCC, participated in State Parade.
+---
 
-**#Saraswati Shishu Vidya Mandir, Bhainsdehi (M.P)**  
-#10th | **#Percentage:** 78.5% | (Aug 2019 - June 2020)  
+### **Personality and Communication**  
+**Question:** How would you describe your personality? How does it affect how you communicate?  
+**Your Answer:**  
+I would describe myself as someone who communicates easily with others. I find it natural to connect with people, which helps me build good relationships. At the same time, I am a good listener, as I try to understand the scenarios and the other person's perspective before sharing my opinions. This approach ensures effective communication and mutual understanding. My participation in activities like anchoring has further polished my communication skills. It has made me more fluent and confident while interacting with others, whether in formal or informal settings.
 
 ---
 
-## #Technical Skills
-- **#Programming Languages:** C, C++, Python, SQL, PHP  
-- **#Full-Stack Development:** MERN Stack (MongoDB, Express JS, React JS, Node.js)  
-- **#Frameworks/Libraries:** Express JS, React JS  
-- **#Developer Tools:** Git, GitHub, VS Code  
-- **#Databases:** MongoDB, MySQL  
-- **#Core Concepts:** Data Structures & Algorithms (DSA), DBMS, OOPM  
+### **Daily Routine and Problem-Solving**  
+**Question:** What is your daily routine like? How do you solve problems and make decisions?  
+**Your Answer:**  
+My daily routine starts with reviewing the tasks I need to perform. I arrange them based on their priority so that I can manage my time effectively. Attending lectures is a regular part of my schedule, along with daily programming practice, which keeps me sharp and consistent in coding. I also dedicate time to learning aptitude and reasoning, as they help enhance my mathematical abilities and critical thinking skills. When solving problems or making decisions, I analyze the situation logically and consider different perspectives. This approach helps me find practical and effective solutions.
 
 ---
 
-## #Projects
-### **#1. Management Information System (MIS)**  
-**#Technology:** HTML, CSS, JavaScript, PHP  
-- Developed a real-time officer status tracking system, enhancing duty allocation efficiency by 90%.
-- Designed and implemented a comprehensive case report system, improving incident documentation and evidence management by 65%.
-- Automated leave management and order panel processes, reducing paperwork and delays by 78% through SQL and PHP.
-
-### **#2. Care-Health | Smart OPD Management System**  
-**#Technology:** MERN Stack  
-- Developed an AI-powered chatbot to optimize patient queues and suggest departments based on symptoms.
-- Integrated real-time tracking of hospital inventory and bed management, ensuring efficient stock monitoring.
-
-### **#3. Portfolio Website**  
-**#Technology:** HTML, CSS, JavaScript  
-- Built a responsive personal portfolio to showcase projects and technical skills.
-- Integrated dynamic project galleries and an interactive blog for user engagement.
-- Implemented backend email handling for professional communication.
-
-### **#4. To-Do List Application**  
-**#Technology:** React JS  
-- Developed a dynamic to-do list application with real-time task management.
-- Utilized React.js for a scalable and maintainable component-based architecture.
-
-### **#5. JPL-PPL Event Management System**  
-**#Technology:** MERN Stack  
-- Organized JPL-PPL at SISTec, featuring three competitive rounds with an integrated compiler and MCQ system.
-- Managed event structure, participant coordination, and ensured fair evaluation.
+### **Career Goals and Growth**  
+**Question:** What are your career goals? How do you see yourself growing in your job?  
+**Your Answer:**  
+My primary career goal is to get placed in a well-known and reputed organization that values growth and innovation. I believe such an organization will provide me with opportunities to improve my technical skills and grow as a competent developer. I aspire to contribute to the company in the best possible way by leveraging my knowledge and skills. Over time, I see myself evolving into a proficient professional who can handle complex challenges and create impactful solutions. My aim is to not only grow personally but also to make meaningful contributions to the organization.
 
 ---
 
-## #Certifications
-- **#CISCO Network Academy:** Python Essentials 1 & 2  
-- **#NPTEL:** Modern C++, Operating Systems, Problem Solving in C  
-- **#GeeksforGeeks:** DSA Workshop  
-- **#Coding Thinker:** Web Development Workshop  
-- **#SISTec Innovation Hackathon 2.0:** Ranked 5th  
-- **#JLU Hackathon:** Ranked 3rd  
-- **#CISCO Netcad Academy:** Cyber Security Certification  
+# **Handling Stress and Challenges**  
+**Question:** How do you handle stress and challenges? What do you do to cope?  
+**Your Answer:**  
+Stress and challenges are a part of life, and I believe in facing them with a calm and composed mindset. Whenever I find myself in a stressful situation, I try to take a small break if possible. Stepping away from the task for a while helps me regain focus and approach the problem with fresh energy. If taking a break is not an option, I take a deep breath and continue with my work while keeping a positive attitude. Additionally, listening to soft music is one of my favorite ways to stay calm and composed. Music has a soothing effect on me and helps me cope with stress effectively.
 
 ---
 
-## #Career Objective
-To secure a position at a reputed software company where I can apply my expertise in full-stack development and contribute innovative solutions.
+# **Legacy and Impact**  
+**Question:** What legacy do you want to leave behind? What impact do you want your digital twin to have?  
+**Your Answer:**  
+I aim to leave behind a legacy that secures my family's future and adds value to their lives. To achieve this, I plan to invest in properties that have the potential to grow in value over time. These investments will ensure financial stability for my family. Additionally, I regularly invest in SIPs, as they are a disciplined way of saving and growing wealth in the long term. My digital twin should reflect my values of consistency, growth, and responsibility. I hope it serves as a reliable resource for learning and problem-solving while inspiring others to work hard and stay focused on their goals.
+
+Here’s the content divided into sections as requested:
 
 ---
 
-## #Chatbot Responses (Predefined Answers for Interaction)
-**#Who are you?**  
-I am Nishant Jhade, a software developer specializing in full-stack web development and AI-driven solutions.
+# **Krish Singhai**  
+**Email:** jain4piyush@gmail.com  
+**Phone:** (+91) 9753868553  
+**LinkedIn:**https://www.linkedin.com/in/p4piyush/ | **GitHub:** https://www.linkedin.com/in/p4piyush/
 
-**#What are your technical skills?**  
-I am proficient in C, C++, Python, SQL, PHP, and MERN stack development.
+---
 
-**#What projects have you worked on?**  
-I have built multiple projects, including an MIS system for officer tracking and Care-Health, an AI-powered OPD management system.
+# **Career Objective**  
+To secure a role as a Computer Science Engineer, utilizing my skills in programming, software development, and problem-solving to support organizational growth and innovation.
 
-**#What is your career goal?**  
-My goal is to grow as a software developer, work on innovative projects, and contribute impactful solutions to businesses.
+---
 
+# **Skills**  
+- **Programming Languages:** C++, C, Java  
+- **Query and Backend Languages:** SQL, PHP, NodeJS
+- **Web Technologies:** HTML, CSS, JavaScript  
+- **Tools:** VS Code  
+- **Frameworks and Libraries:** React.js  
+- **Data Structures and Algorithms (DSA):** Strong understanding of core algorithms and data structures.
+
+---
+
+# **Education**  
+- **B.Tech – Computer Science & Engineering**  
+  Sagar Group of Institutions – SISTec-R, Ratibad Campus, Bhopal, MP  
+  CGPA: 7.22 (2022-2026)  
+
+- **12th – CBSE**  
+  Carmel Convent Sr Sec School, Bhopal 
+percentage: 76%(2022)
+
+- **10th – CBSE**  
+  Carmel Convent Sr Sec School, Bhopal 
+percentage: 80% (2020) 
+
+---
+
+# **Certificates and Workshops**  
+- **Certified in Problem Solving through Programming in C** (NPTEL, IIT Kharagpur)  
+- **Certified in Programming in Modern C++** (NPTEL, IIT Kharagpur)  
+- **Completed Introduction to Cyber Security** (Cisco NETCAD Academy)  
+- **Completed Introduction to Packet Tracer** (Cisco NETCAD Academy)  
+
+---	
+
+# **Academic Projects**  
+- **MIS (Management Information System):**  
+  A centralized management system that aids in leave management, duty allotment, case record management, achievement tracking, and more. This system reduces paperwork and streamlines processes for better efficiency.
+
+- **JPL and PPL:**  
+  - MERN Stack developing an inter-college coding competition platform with an online compiler and quiz module
+---
+
+- **HIS for hospital:**
+  MERN Stack, LangChain, Python Designed a hospital management system and AI-powered report analysis.
+
+
+# **Position of Responsibility**  
+- **SISTec Innovation Hackathon | SISTec-R, Ratibad** (09/04/2023-10/04/2024)  
+  Secured a top 5 position in a hackathon at SISTec-R, competing against over 70 teams.
+
+- **Lakecity Hack | Jagran Lakecity University** (29/04/2023-30/04/2024)  
+  Secured a top 3 position in the Lakecity Hackathon.
